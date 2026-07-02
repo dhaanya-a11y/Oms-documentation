@@ -1,1 +1,24 @@
-
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "OMS Documentation",
+  "theme": "mint",
+  "colors": {
+    "primary": "#16a34a",
+    "light": "#22c55e",
+    "dark": "#15803d"
+  },
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "introduction"
+      ]
+    },
+    {
+      "group": "CVP Offers",
+      "pages": [
+        "grocery-rewards"
+      ]
+    }
+  ]
+}
